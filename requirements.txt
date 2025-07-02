@@ -1,0 +1,63 @@
+# Essential packages for Darkrai YouTube Video Downloader
+# Install with: pip install -r requirements.txt
+
+# Core web framework
+Flask>=2.3.0
+
+# CORS support for cross-origin requests
+Flask-CORS>=4.0.0
+
+# YouTube downloader (main functionality)
+yt-dlp>=2024.7.1
+
+# WSGI utility library (required by Flask)
+Werkzeug>=2.3.0
+
+# Jinja2 template engine (required by Flask)
+Jinja2>=3.1.0
+
+# Click command line interface (required by Flask)
+click>=8.1.0
+
+# MarkupSafe (required by Jinja2)
+MarkupSafe>=2.1.0
+
+# itsdangerous (required by Flask for sessions)
+itsdangerous>=2.1.0
+
+# blinker (required by Flask for signals)
+blinker>=1.6.0
+
+# HTTP library (useful for external API calls)
+requests>=2.31.0
+
+# Certificate handling (required for HTTPS)
+certifi>=2023.5.0
+
+# URL parsing (required by requests)
+urllib3>=2.0.0
+
+# Character encoding detection (required by requests)
+charset-normalizer>=3.1.0
+
+# International domain names (required by requests)
+idna>=3.4
+
+# WebSocket support (useful for real-time features)
+websockets>=11.0.0
+
+# Rich text and formatting (used by yt-dlp)
+rich>=13.4.0
+
+# Pycryptodome (required by yt-dlp for some videos)
+pycryptodome>=3.18.0
+
+# mutagen (for audio metadata, used by yt-dlp)
+mutagen>=1.46.0
+
+# Pillow (for image processing, useful for thumbnails)
+Pillow>=10.0.0
+
+# Optional but recommended for production deployment
+# Uncomment the line below if deploying to production
+# waitress>=2.1.2
