@@ -1,4 +1,4 @@
-# 🎬 Darkrai YouTube Video Downloader
+# 🎬 YouTube Video Downloader
 
 A modern, feature-rich YouTube video downloader web application built with Flask and yt-dlp. Download videos, audio, and subtitles with a beautiful dark-themed interface.
 
