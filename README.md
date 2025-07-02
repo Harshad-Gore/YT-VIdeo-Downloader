@@ -53,7 +53,7 @@ Before running the application, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/darkrai-youtube-downloader.git
+   git clone https://github.com/Harshad-Gore/darkrai-youtube-downloader.git
    cd darkrai-youtube-downloader
    ```
 
