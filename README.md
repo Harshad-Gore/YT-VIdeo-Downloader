@@ -319,7 +319,8 @@ If you encounter any issues or have questions:
 1. **Check the troubleshooting section**
 2. **Search existing issues** on GitHub
 3. **Create a new issue** with detailed information
-4. **Join our community** for discussions
+4. **Discord Support**: DM `raybyte` on Discord for direct assistance
+5. **Join our community** for discussions
 
 ---
 
